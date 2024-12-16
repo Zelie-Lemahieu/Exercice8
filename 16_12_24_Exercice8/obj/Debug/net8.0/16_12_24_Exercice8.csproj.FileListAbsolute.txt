@@ -1,0 +1,15 @@
+C:\Users\Utilisateur\source\repos\16_12_24_Exercice8\16_12_24_Exercice8\bin\Debug\net8.0\16_12_24_Exercice8.exe
+C:\Users\Utilisateur\source\repos\16_12_24_Exercice8\16_12_24_Exercice8\bin\Debug\net8.0\16_12_24_Exercice8.deps.json
+C:\Users\Utilisateur\source\repos\16_12_24_Exercice8\16_12_24_Exercice8\bin\Debug\net8.0\16_12_24_Exercice8.runtimeconfig.json
+C:\Users\Utilisateur\source\repos\16_12_24_Exercice8\16_12_24_Exercice8\bin\Debug\net8.0\16_12_24_Exercice8.dll
+C:\Users\Utilisateur\source\repos\16_12_24_Exercice8\16_12_24_Exercice8\bin\Debug\net8.0\16_12_24_Exercice8.pdb
+C:\Users\Utilisateur\source\repos\16_12_24_Exercice8\16_12_24_Exercice8\obj\Debug\net8.0\16_12_24_Exercice8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\source\repos\16_12_24_Exercice8\16_12_24_Exercice8\obj\Debug\net8.0\16_12_24_Exercice8.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\source\repos\16_12_24_Exercice8\16_12_24_Exercice8\obj\Debug\net8.0\16_12_24_Exercice8.AssemblyInfo.cs
+C:\Users\Utilisateur\source\repos\16_12_24_Exercice8\16_12_24_Exercice8\obj\Debug\net8.0\16_12_24_Exercice8.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\source\repos\16_12_24_Exercice8\16_12_24_Exercice8\obj\Debug\net8.0\16_12_24_Exercice8.sourcelink.json
+C:\Users\Utilisateur\source\repos\16_12_24_Exercice8\16_12_24_Exercice8\obj\Debug\net8.0\16_12_24_Exercice8.dll
+C:\Users\Utilisateur\source\repos\16_12_24_Exercice8\16_12_24_Exercice8\obj\Debug\net8.0\refint\16_12_24_Exercice8.dll
+C:\Users\Utilisateur\source\repos\16_12_24_Exercice8\16_12_24_Exercice8\obj\Debug\net8.0\16_12_24_Exercice8.pdb
+C:\Users\Utilisateur\source\repos\16_12_24_Exercice8\16_12_24_Exercice8\obj\Debug\net8.0\16_12_24_Exercice8.genruntimeconfig.cache
+C:\Users\Utilisateur\source\repos\16_12_24_Exercice8\16_12_24_Exercice8\obj\Debug\net8.0\ref\16_12_24_Exercice8.dll
